@@ -1,0 +1,18 @@
+/* You need to create the rest of styles for the layout shown */
+
+.options {
+    margin: 0 2rem;
+    border: 0.3rem solid rgb(3, 134, 121);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(183, 246, 226);
+}
+
+.choices {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+    padding: 2rem;
+    
+}
+
